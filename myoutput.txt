@@ -1,0 +1,68 @@
+
+Student List
+------------------------------------------------------------
+ Jon Snow
+ John Smith
+ Bob Jones
+ David Jones
+ Tommy Oliver
+ Tom Smith
+
+Enrollment Request Log
+------------------------------------------------------------
+Jon Snow        WAS     enrolled in CS330
+Jon Snow        WAS NOT enrolled in CS330
+Jon Snow        WAS     enrolled in CS300
+John Smith      WAS     enrolled in CS355
+John Smith      WAS     enrolled in CS330
+John Smith      WAS NOT enrolled in CS330
+John Smith      WAS     enrolled in CS300
+Bob Jones       WAS     enrolled in CS300
+Bob Jones       WAS     enrolled in CS355
+Bob Jones       WAS     enrolled in CS330
+Bob Jones       WAS NOT enrolled in CS300
+Bob Jones       WAS     enrolled in CS361
+Bob Jones       WAS NOT enrolled in IT310
+Bob Jones       WAS NOT enrolled in Stat330
+David Jones     WAS     enrolled in CS330
+Tom Smith       WAS     enrolled in CS330
+Tommy Oliver    WAS     enrolled in CS665
+
+Student Schedule Report
+------------------------------------------------------------
+ Jon Snow
+  - 3 credits - CS330 (CRN 12345)
+  - 3 credits - CS300 (CRN 34567)
+  (6 Total Credits)
+
+
+ John Smith
+  - 3 credits - CS355 (CRN 45678)
+  - 3 credits - CS330 (CRN 12345)
+  - 3 credits - CS300 (CRN 34567)
+  (9 Total Credits)
+
+
+ Bob Jones
+  - 3 credits - CS300 (CRN 34567)
+  - 3 credits - CS355 (CRN 45678)
+  - 3 credits - CS330 (CRN 12345)
+  - 3 credits - CS361 (CRN 34569)
+  (12 Total Credits)
+
+
+ David Jones
+  - 3 credits - CS330 (CRN 12345)
+  (3 Total Credits)
+
+
+ Tommy Oliver
+  - 3 credits - CS665 (CRN 56789)
+  (3 Total Credits)
+
+
+ Tom Smith
+  - 3 credits - CS330 (CRN 12345)
+  (3 Total Credits)
+
+
